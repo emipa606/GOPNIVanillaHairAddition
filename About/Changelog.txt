@@ -1,5 +1,8 @@
 # Changelog for GOPNIVanillaHairAddition
 
+1.3.1 - The hairstyles should behave better with ideology and the stylingstation now.
+
+
 1.0.1.0 - Mod updated for 1.3 and passed autotests
 
 
