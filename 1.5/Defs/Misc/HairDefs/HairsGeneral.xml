@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HairDef>
+    <defName>GH_Afro</defName>
+    <label>GOPNI afro</label>
+    <styleGender>Any</styleGender>
+    <texPath>Gairs/Afro</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Bob</defName>
+    <label>GOPNI bob</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Bob</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Burgundy</defName>
+    <label>GOPNI burgundy</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Burgundy</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Flowy</defName>
+    <label>GOPNI flowy</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Flowy</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Long</defName>
+    <label>GOPNI long</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Long</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Mohawk</defName>
+    <label>GOPNI mohawk</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Mohawk</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Punk</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Mop</defName>
+    <label>GOPNI mop</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Mop</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Pigtails</defName>
+    <label>GOPNI pigtails</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Pigtails</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Shaved</defName>
+    <label>GOPNI shaved</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Shaved</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Spikes</defName>
+    <label>GOPNI spikes</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Spikes</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Punk</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Tuft</defName>
+    <label>GOPNI tuft</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Tuft</texPath>
+    <category>Punk</category>
+    <styleTags>
+      <li>Punk</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Wavy</defName>
+    <label>GOPNI wavy</label>
+    <styleGender>Any</styleGender>
+    <texPath>Gairs/Wavy</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_BraidedKnot</defName>
+    <label>GOPNI braided knot</label>
+    <styleGender>Any</styleGender>
+    <texPath>Gairs/Braidbun</texPath>
+    <category>Punk</category>
+    <styleTags>
+      <li>Punk</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Topdog</defName>
+    <label>GOPNI topdog</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Topdog</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Punk</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Senorita</defName>
+    <label>GOPNI senorita</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Senorita</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_ScorpionTail</defName>
+    <label>GOPNI scorpion tail</label>
+    <styleGender>Any</styleGender>
+    <texPath>Gairs/Scorpiontail</texPath>
+    <category>Punk</category>
+    <styleTags>
+      <li>Punk</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_BriefPonytail</defName>
+    <label>GOPNI brief ponytail</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Gaston</texPath>
+    <category>Rural</category>
+    <styleTags>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Troubadour</defName>
+    <label>GOPNI troubadour</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Troubadour</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Messy</defName>
+    <label>GOPNI messy</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Mess</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Princess</defName>
+    <label>GOPNI princess</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Princess</texPath>
+    <category>Rural</category>
+    <styleTags>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Firestarter</defName>
+    <label>GOPNI firestarter</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Gairs/Firestarter</texPath>
+    <category>Punk</category>
+    <styleTags>
+      <li>Punk</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_GreasySwoop</defName>
+    <label>GOPNI greasy swoop</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/GreasySwoop</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Curly</defName>
+    <label>GOPNI curly</label>
+    <styleGender>Female</styleGender>
+    <texPath>Gairs/Curly</texPath>
+    <category>Urban</category>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>GH_Scatman</defName>
+    <label>GOPNI scatman</label>
+    <styleGender>Male</styleGender>
+    <texPath>Gairs/Scat</texPath>
+    <category>Rural</category>
+    <styleTags>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+</Defs>
