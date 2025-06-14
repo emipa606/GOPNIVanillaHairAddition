@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 1688958923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b86e009180be6dce70e0d0fb5842963
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b86e009180be6dce70e0d0fb5842963
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Shaved_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Wavy_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/GreasySwoop_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Burgundy_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scorpiontail_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scat_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Braidbun_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Wavy_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Princess_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Burgundy_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Bob_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Pigtails_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Tuft_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Spikes_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Topdog_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Shaved_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Burgundy_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Afro_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Troubadour_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Troubadour_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mess_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Spikes_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Tuft_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scorpiontail_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/GreasySwoop_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Pigtails_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mop_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Curly_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Afro_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mohawk_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Pigtails_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Shaved_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Topdog_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Flowy_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Curly_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scorpiontail_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Senorita_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mess_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mohawk_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Braidbun_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Firestarter_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Senorita_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/GreasySwoop_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Afro_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Bob_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mohawk_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Bob_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Gaston_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Curly_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Gaston_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Flowy_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Spikes_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Princess_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Princess_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Senorita_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Tuft_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mop_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Long_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Braidbun_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mess_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Wavy_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scat_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Mop_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Topdog_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Gaston_east.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Long_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Firestarter_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Troubadour_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Long_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Flowy_south.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Firestarter_north.png
+- Assets/Data/Mlie.GOPNIVanillaHairAddition/Textures/Gairs/Scat_north.png
+Dependencies: []
